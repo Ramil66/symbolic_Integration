@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolicIntegration", "SymbolicIntegration\SymbolicIntegration.csproj", "{77945514-23CB-4DD3-87FA-C4E59F79EF17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77945514-23CB-4DD3-87FA-C4E59F79EF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77945514-23CB-4DD3-87FA-C4E59F79EF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77945514-23CB-4DD3-87FA-C4E59F79EF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77945514-23CB-4DD3-87FA-C4E59F79EF17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80CABA20-8ADC-48BF-9E68-EE593A4685A5}
+	EndGlobalSection
+EndGlobal
